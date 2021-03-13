@@ -1,0 +1,5 @@
+!.gitignore
+chromedriver.exe
+.ipynb_checkpoints
+scraping_www.division9.ca.rar
+tile.rar
